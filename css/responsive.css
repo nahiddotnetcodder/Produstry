@@ -1,0 +1,350 @@
+@media(max-width:1690px){
+
+}
+@media(min-width:992px) and (max-width:1198px){
+    .blog-btn {
+        margin-left: 0px;
+    }
+    .blog-content h4 {
+        margin-top: 5px;
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .blog-content p {
+        font-size: 14px;
+        padding: 10px 0;
+        line-height: 20px;
+    }
+    .blog-content ul li a {
+        margin-right: 0;
+      }
+      .footer-text {
+        margin-bottom: 10px;
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .text-link {
+        margin-top: 18px;
+    }
+    .text-link p {
+        font-size: 14px;
+        color: #dddddd;
+        text-align: center;
+    }
+    .text-detail ul {
+        margin-top: 5px;
+    }
+    .about-right .nav-tabs > li > button {
+        padding: 10px 12px;
+    }
+    .service-items p {
+        padding: 0 5px;
+    }
+    .portfolio-items p {
+        padding: 0 5px;
+      
+    }
+    .blog-items .r-p {
+        padding: 0 5px;
+    }
+    .sort-select{
+        margin: 5px 2px;
+    }
+    .pagination > li > a {
+        padding: 10px 10px;
+    }
+    .sign-items p {
+        padding: 0 5px;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+    .header-icon ul li a {
+        font-size: 14px;
+    }
+    .header-icon ul li {
+        margin: 10px 5px;
+    }
+    .header-address span {
+        font-size: 12px;
+    }
+    #myNav ul li a {
+        padding: 20px 16px;
+    }
+    .banner-item {
+        height: 450px;
+    }
+    .counter-items p {
+        margin-bottom: 9px;
+    }
+    .counter-items {
+        padding: 20px;
+    }
+    .blog-content p {
+        line-height: 20px;
+    }
+    .blog-btn {
+        margin-left: 0px;
+       
+    }
+    .text-uppercase {
+        margin-top: 20px;
+    }
+    .text-detail ul {
+        margin-top: 0px;
+    }
+    .footer-text {
+        font-size: 13px;
+    }
+    .testi{
+        margin-left: -35px;
+    }
+    .about-right .tab-pane p {
+        font-size: 16px;
+        padding: 0 25px;
+    }
+    .sort-icon{
+        margin: 10px 0;
+    }
+    .sort-select{
+        margin: 10px 0;
+    }
+    .pagination > li > a {
+        padding: 8px 6px;
+    }
+    .sort-select select {
+        padding: 2px 2px;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+    .contact-form1 .row .col-lg-6 {
+        height: 430px;
+        margin: -25px;
+    }
+   
+}
+@media (min-width:576px) and (max-width:767.98px){
+    .header-address p {
+        padding: 10px 10px;
+        text-align: center;
+    }
+    .header-welcome  {
+        clip-path: none;
+    }
+    .padding-x-none{
+        padding: 0px;
+    }
+    .header-welcome p {
+        padding: 10px 10px;
+    }
+    #mynav ul > li > a:before {
+        position: absolute;
+        content: "";
+        height: 100%;
+        width: calc(100% + 10px);
+        border: none;
+        left: -5px;
+        top: 0;
+        transform: scale(0, 1);
+        transition: all 0.5s ease-in-out;
+    }
+    
+    #mynav ul > li > a:after {
+        position: absolute;
+        content: "";
+        height: calc(100% + 10px);
+        width: 100%;
+        border: none;
+        left: 0;
+        top: -4px;
+        transform: scale(1, 0);
+        transition: all 0.5s ease-in-out;
+    }
+    .counter-items p {
+        margin-bottom: 9px;
+    }
+    .counter-items {
+        padding: 20px;
+    }
+    .service-text p {
+        font-size: 16px;
+        line-height: 28px !important;
+    }
+    .banner-content button {
+        margin-right: 0px;
+    }
+    .ntn-button {
+        margin-left: 5px;
+    }
+    .testi{
+        margin-left: -8px;
+    }
+    .text-link{
+        margin-bottom: 20px;
+    }
+    .text-link {
+        margin-top: 25px;
+    }
+    .text-uppercase {
+        margin-top: 20px;
+    }
+    .blog-btn {
+        margin-left: 190px;
+    }
+    .text-detail h5 {
+        font-size: 12px;
+    }
+    .text-detail ul {
+        margin-top: 5px;
+    }
+    .text-li {
+        font-size: 11px;
+    }
+    .sort-icon{
+        margin: 10px 0;
+    }
+    .sort-select{
+        margin: 10px 0;
+    }
+    .contact-form1 .row .col-lg-6 {
+        height: 480px;
+        margin: -18px -35px;
+    }
+    
+   
+}
+
+@media (max-width:575.98px){
+    .banner-item {
+        height: 300px;
+    }
+    .header-address p {
+        padding: 10px 10px;
+        text-align: center;
+    }
+    .header-welcome  {
+        clip-path: none;
+    }
+    .padding-x-none{
+        padding: 0px;
+    }
+    .header-welcome p {
+        padding: 10px 10px;
+    }
+    #mynav ul > li > a:before {
+        position: absolute;
+        content: "";
+        height: 100%;
+        width: calc(100% + 10px);
+        border: none;
+        left: -5px;
+        top: 0;
+        transform: scale(0, 1);
+        transition: all 0.5s ease-in-out;
+    }
+    
+    #mynav ul > li > a:after {
+        position: absolute;
+        content: "";
+        height: calc(100% + 10px);
+        width: 100%;
+        border: none;
+        left: 0;
+        top: -4px;
+        transform: scale(1, 0);
+        transition: all 0.5s ease-in-out;
+    }
+    .service-items h2 {
+        text-transform: capitalize;
+        margin-bottom: 20px;
+        font-size: 35px;
+    }
+    .service-items p {
+        font-size: 16px;
+        padding: 0 5px;
+        margin-bottom: 10px;
+    }
+    .service-text p {
+        font-size: 14px;
+        line-height: 25px !important;
+        padding: 0 10px;
+    }
+    .about-right .nav-tabs > li > button {
+        padding: 10px 8px;
+        font-size: 14px;
+    }
+    .portfolio-items p {
+        padding: 0 2px;
+    }
+    .counter-items p {
+        margin-bottom: 9px;
+    }
+    .counter-items {
+        padding: 20px;
+    }
+    .blog-items .r-p {
+        padding: 0 2px;
+    }
+    .blog-content h4 {
+        margin-top: -10px;
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .blog-content ul li a {
+      margin-right: 0;
+    }
+    .text-uppercase{
+        margin-top: 20px;
+    }
+    .text-li {
+        font-size: 13px;
+    }
+    .text-detail ul {
+        margin-top: 2px;
+    }
+    .last-list-like span{
+        margin-left: 3px;
+    }
+    .copy-item p {
+        font-size: 12px;
+    }
+    .banner-content button{
+        margin-right: 0px;
+        margin-left: 5px;
+    }
+    .blog-btn {
+        margin-left: 0px;
+    }
+    .sort-icon{
+        margin: 20px 0;
+    }
+    .sort-select select {
+        padding: 10px 5px;
+    }
+    .sort-select span {
+        margin-right: -5px;
+    }
+    .pagination > li > a {
+        padding: 8px 9px;
+    }
+    .sort-select select {
+        padding: 10px 5px;
+        margin-right: 5px;
+        margin-bottom: 15px;
+    }
+    .sign-items p {
+        padding: 0 2px;
+    }
+    .contact-form1 .row .col-lg-6 {
+        margin: -25px -25px;
+    }
+    .about-team-items p {
+        padding: 0 2px;
+    }
+    .ntn-button{
+        display: none;
+    }
+    .about-team-items p {
+        padding: 0 5px;
+    }
+
+}
